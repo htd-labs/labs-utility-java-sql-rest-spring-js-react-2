@@ -1,0 +1,5 @@
+/sourcecode/target/*
+.idea
+/sourcecode/logfile.log
+/sourcecode/LabLoader2.iml
+/logfile.log
