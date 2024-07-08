@@ -5,7 +5,7 @@ This repository is a utility to help you access Revature coding labs.
 You can run the Labs utility using the command `java -jar labs.jar`, see below the list of labs for usage guide or
 use the command 'help'.
 
-# Java / SQL / REST
+# Java
 - java-helloworld
 - java-methods
 - java-parameters
@@ -14,9 +14,6 @@ use the command 'help'.
 - java-combinestrings
 - java-comparisons
 - java-ifstatement
-- cc-add
-- cc-subtract
-- cc-greaterorlesser
 - java-instantiation
 - java-introtooop
 - java-constructors
@@ -24,12 +21,6 @@ use the command 'help'.
 - java-forloop
 - java-booleanoperators
 - java-arrays
-- cc-evenorodd
-- cc-hardcodedlogin
-- cc-returnarraycontents
-- cc-setallarrayelementston
-- cc-fizzbuzz
-- cc-guessinggame
 - java-lists
 - java-sets
 - java-exceptions
@@ -38,11 +29,6 @@ use the command 'help'.
 - java-casting
 - java-math
 - java-statickeyword
-- cc-arraysum
-- cc-average
-- cc-getmax
-- cc-contains
-- cc-doesnotcontain
 - java-bankaccount
 - java-map
 - java-queue
@@ -54,11 +40,51 @@ use the command 'help'.
 - java-interfaces
 - java-generic
 - java-advancedbooleans
+- java-streams
+- java-reflections
+## Java coding challenges
+- cc-add
+- cc-subtract
+- cc-greaterorlesser
+- cc-evenorodd
+- cc-hardcodedlogin
+- cc-returnarraycontents
+- cc-setallarrayelementston
+- cc-fizzbuzz
+- cc-guessinggame
+- cc-arraysum
+- cc-average
+- cc-getmax
+- cc-contains
+- cc-doesnotcontain
 - cc-indexof
 - cc-issorted
 - cc-arraysareequal
 - cc-maxminusmin
 - cc-containsduplicates
+- cc-pyramid
+- cc-search2darray
+- cc-returnlongeststring
+- cc-removeallcharacter
+- cc-parsepathparameter
+- cc-deserialization
+- cc-json
+- cc-insertposition
+- cc-istheresum
+- cc-arrayabsolutevalue
+- cc-piglatin
+- cc-combinearrays
+- cc-wordcount
+- cc-isogram
+- cc-fibonacci
+- cc-reverseastring
+- cc-largestsum
+- cc-charcomparison
+- cc-mostcommoncharacter
+- cc-stringispalindrome
+- cc-subarray
+- cc-wordcountmap
+## SQL
 - sql-createtable
 - sql-droptable
 - sql-insert
@@ -68,10 +94,6 @@ use the command 'help'.
 - sql-update
 - sql-delete
 - sql-selectwhereandor
-- cc-pyramid
-- cc-search2darray
-- cc-returnlongeststring
-- cc-removeallcharacter
 - sql-grocerylist
 - sql-foreignkey
 - sql-innerjoin
@@ -83,30 +105,11 @@ use the command 'help'.
 - sql-aggregatefunctions
 - sql-groupby
 - sql-createview
-- cc-parsepathparameter
-- cc-deserialization
-- cc-json
-- cc-insertposition
-- cc-istheresum
-- cc-arrayabsolutevalue
-- cc-piglatin
-- cc-combinearrays
+## Javalin
 - jav-creatingendpoints
 - jav-statuscodes
 - jav-pathparameters
 - jav-requestbody
-- cc-wordcount
-- cc-isogram
-- cc-fibonacci
-- cc-reverseastring
-- cc-largestsum
-- cc-charcomparison
-- java-streams
-- java-reflections
-- cc-mostcommoncharacter
-- cc-stringispalindrome
-- cc-subarray
-- cc-wordcountmap
 ## Spring
 - spr-di
 - spr-applicationcontext
@@ -173,6 +176,7 @@ use the command 'help'.
 - java-customserializer
 - java-encryption
 - java-urlvalidation
+## Optional Java coding challenges
 - cc-anagram
 - cc-bracketsaroundperiod
 - cc-prime
